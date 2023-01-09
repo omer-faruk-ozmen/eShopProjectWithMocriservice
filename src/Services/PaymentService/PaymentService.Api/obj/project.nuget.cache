@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwX5/BC6BNmxVlb0i0l076ihU5fUesUwKPZhb6PnP0Wdbg4Q7JHeVu8nHl/egiAr6wCRV8lyRRaOiLKPk9iAxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofo\\Desktop\\Desktop\\Software\\projects\\CSharp\\eShopProjectWithMicroservice\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
