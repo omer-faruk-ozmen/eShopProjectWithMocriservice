@@ -1,0 +1,5 @@
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\NotificationService\NotificationService\obj\Debug\net6.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\NotificationService\NotificationService\obj\Debug\net6.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\NotificationService\NotificationService\obj\Debug\net6.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\NotificationService\NotificationService\obj\Debug\net6.0\NotificationService.AssemblyInfo.cs
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\NotificationService\NotificationService\obj\Debug\net6.0\NotificationService.csproj.CoreCompileInputs.cache

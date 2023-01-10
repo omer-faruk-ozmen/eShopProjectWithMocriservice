@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+nSLCe4L9OoNdxtO0z+6Vz+sfWvV1oPfPM3cEhDC7FE=",
+  "Source": "Web.APIGateway",
+  "BasePath": "_content/Web.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

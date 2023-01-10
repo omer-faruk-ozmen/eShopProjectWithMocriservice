@@ -1,0 +1,12 @@
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\bin\Debug\net6.0\OrderService.Application.deps.json
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\bin\Debug\net6.0\OrderService.Application.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\bin\Debug\net6.0\OrderService.Application.pdb
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\refint\OrderService.Application.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\OrderService.Application.pdb
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\Services\OrderService\OrderService.Application\obj\Debug\net6.0\ref\OrderService.Application.dll

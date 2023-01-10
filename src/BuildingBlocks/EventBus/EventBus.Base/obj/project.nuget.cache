@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QL1PbweSS6d5AV7rOfGUw0Ciqlj20WWvTiUTShjYnz3oXlw2kro78kJ5+/MqwT9H2AFJjk8SRN9jZq91gxfI/g==",
+  "dgSpecHash": "Z/ZAxWIQUVEU051J/q27MDNSpsS3icoGCZJOduf888mWrSU57FnzOiT4iaDaO45yPTgabmIZ0xSjl1ToO45CCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ofo\\Desktop\\Desktop\\Software\\projects\\CSharp\\eShopProjectWithMicroservice\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ofo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

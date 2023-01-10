@@ -1,0 +1,12 @@
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.deps.json
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.pdb
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\refint\EventBus.RabbitMQ.dll
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.pdb
+C:\Users\ofo\Desktop\Desktop\Software\projects\CSharp\eShopProjectWithMicroservice\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\ref\EventBus.RabbitMQ.dll
