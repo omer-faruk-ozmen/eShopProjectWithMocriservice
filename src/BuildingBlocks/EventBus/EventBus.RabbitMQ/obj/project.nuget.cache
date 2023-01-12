@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NTkLPG2Ydmwx0iRr551HeZvnXb2XIqKKywHYBRys6mW6K7c8mV1LDKGqgkkd9MJI774LlxDV61dm1GHlo5kqcA==",
+  "dgSpecHash": "QJThzxGNWnJTXshu2PdLfx+8Cj8As2+UpNl8vIID1A7F5h1PgeuE3hSI2nwmosXELfHvr8Ij+/E57MZ2sfV3SQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ofo\\Desktop\\Desktop\\Software\\projects\\CSharp\\eShopProjectWithMicroservice\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ofo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ofo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
