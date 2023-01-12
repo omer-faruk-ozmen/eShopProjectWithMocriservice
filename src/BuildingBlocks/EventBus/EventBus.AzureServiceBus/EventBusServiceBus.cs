@@ -15,7 +15,7 @@ public class EventBusServiceBus : BaseEventBus
     private ILogger _logger;
 
 
-    public EventBusServiceBus(EventBusConfig config, IServiceProvider serviceProvider, ManagementClient managementClient, ITopicClient topicClient, ILogger logger) : base(config, serviceProvider)
+    public EventBusServiceBus(EventBusConfig config, IServiceProvider serviceProvider) : base(config, serviceProvider)
     {
         _logger = serviceProvider.GetService(typeof(ILogger<EventBusServiceBus>)) as ILogger<EventBusServiceBus> ?? throw new InvalidOperationException();
         _managementClient = new ManagementClient(config.EventBusConnectionString);
